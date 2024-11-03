@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm flechazo1212</h1>
 <h3 align="center">A 4th year student from Vietnam, learning game development.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ductoannguyen1212@gmail.com</h3>
 <p align="left">
 </p>
 
