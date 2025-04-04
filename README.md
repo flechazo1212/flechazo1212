@@ -9,7 +9,7 @@
 
 ## 🔗 Connect with me
 📧 Email: <ductoannguyen1212@gmail.com>  
-🔗 LinkedIn: [Your Profile](https://www.linkedin.com/in/yourprofile)  
+🔗 LinkedIn: [flechazo1212]()  
 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)  
 
 ---
